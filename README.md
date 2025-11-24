@@ -50,7 +50,7 @@ Use the menu options (**1-4**) to comprehensively test the functionality:
 
 ### ✨ Screenshots of Execution
 
-* ![results](https://github.com/prachi-kamboj/Library-Management-System/blob/main/Screenshots/git2.jpg)
-* ![results](https://github.com/prachi-kamboj/Library-Management-System/blob/main/Screenshots/git1.jpg)
-* ![results](https://github.com/prachi-kamboj/Library-Management-System/blob/main/Screenshots/git3.jpg)
-* ![results](https://github.com/prachi-kamboj/Library-Manag
+* ![results](https://github.com/khanmdraza2029-dev/Library-Management-System/blob/main/git1.jpg)
+* ![results](https://github.com/khanmdraza2029-dev/Library-Management-System/blob/main/git2.jpg)
+* ![results](https://github.com/khanmdraza2029-dev/Library-Management-System/blob/main/git3.jpg)
+* ![results](https://github.com/khanmdraza2029-dev/Library-Management-System/blob/main/git4.jpg)
